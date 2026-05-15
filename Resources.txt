@@ -1,0 +1,20 @@
+Resources created using Terraform:
+
+Resource Group
+Virtual Network
+Subnet for Application Gateway
+Subnet for private endpoint for App Service
+Delegated Subnet for App Service (Vnet Integration)
+Subnet for private endpoint for database
+App Service 
+Azure Static Web App
+User Assigned Identiy
+
+Resources created manually:
+
+Cosmos DB for NoSQL
+Key Vault for storing Database Secrets - connection string and password
+Application Gateway
+Private endpoints
+Private DNS zones 
+
